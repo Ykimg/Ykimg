@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+git clone https://github.com/Ykimg/Ykimg
+
+cd Ykimg
+
+python Ykimg.py
