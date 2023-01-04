@@ -1,4 +1,4 @@
-### Hi there I'm Marean FroM Pakistan👋
+### Hi there I'm YAasir AfriDii FroM Pakistan👋
 
 <!--
 **Ykimg/Ykimg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
